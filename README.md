@@ -59,7 +59,6 @@ Menggunakan tag `<footer>` dengan teks copyright. Diberi border atas sebagai pem
 - **Style** - `box-sizing: border-box` diterapkan ke semua elemen. Body menggunakan font Poppins dengan background biru gelap `#0d1b4b` dan `padding-top: 64px` untuk mengimbangi navbar fixed.
 - **Navbar** - Background lebih gelap dari body (`#091236`) untuk memberi kontras. Warna teks menggunakan transparansi putih dengan efek hover biru.
 - **Home** - Section menggunakan `min-height: calc(100vh - 64px)` agar mengisi penuh layar. Foto profil menggunakan `object-fit: cover` di dalam `.photo-box` berukuran `420px × 520px` agar gambar tetap proporsional.
-- **Progress Bar** - Menggunakan `transition: width 1.2s ease` untuk animasi halus. Background track berwarna putih semi-transparan.
 - **Certificate Card** - Efek hover menerapkan `translateY(-4px)` dan `box-shadow` biru agar card terlihat terangkat saat kursor diarahkan.
 
 ---
