@@ -1,6 +1,6 @@
 # Portfolio Website - Yudha Tri Atmaja
 
-Website portfolio pribadi yang dibuat menggunakan HTML, CSS, dan Bootstrap 5. Berisi informasi singkat tentang diri, pengalaman organisasi, kemampuan teknis, dan sertifikat yang pernah diperoleh.
+Website portfolio pribadi yang dibuat menggunakan HTML, CSS, dan Bootstrap 5. Berisi informasi singkat tentang diri, pengalaman organisasi, skill, dan sertifikat yang pernah diperoleh.
 
 ---
 
